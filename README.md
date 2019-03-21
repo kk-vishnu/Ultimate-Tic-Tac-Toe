@@ -1,5 +1,5 @@
 # Ultimate-Tic-Tac-Toe
-3rd semester's assignment
+3rd semester's OOP assignment
 
 To run:
 
