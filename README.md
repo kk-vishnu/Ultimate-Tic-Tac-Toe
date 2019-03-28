@@ -3,6 +3,8 @@
 
 To run:
 
+Open Terminal:
+
 $ javac ultimate_tic_tac_toe.java
 
 $ java ultimate_tic_tac_toe
