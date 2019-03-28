@@ -1,9 +1,7 @@
 # Ultimate-Tic-Tac-Toe
 3rd semester's OOP assignment
 
-To run:
-
-Open Terminal:
+To run open terminal:
 
 $ javac ultimate_tic_tac_toe.java
 
